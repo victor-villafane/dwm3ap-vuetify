@@ -1,0 +1,11 @@
+1)
+    git init
+    git remote add origin https://github.com/victor-villafane/dwm3ap-vuetify.git
+    git branch -M main
+    git add .
+    git commit -m "init"
+    git push -u origin main
+    
+2)  git add .
+    git commit -m ""
+    git push
